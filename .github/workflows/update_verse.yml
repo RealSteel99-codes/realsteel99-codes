@@ -17,6 +17,9 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: List repo files
+        run: ls -R
+
       - name: Install dependencies
         run: pip install requests
 
