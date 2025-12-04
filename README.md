@@ -1,6 +1,5 @@
 
 
-[My followers:](https://img.shields.io/github/followers/Realsteel99-codes?label=Followers)
 
 
 
