@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**RealSteel99-codes/realsteel99-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[My followers:](https://img.shields.io/github/followers/Realsteel99-codes?label=Followers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on making a website
+- 🌱 I’m currently learning C++ and ethical hacking
+- 👯 I’m looking to collaborate on C++, windows or linux projects
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about anything coding
+- 📫 How to reach me: c44014189@gmail.com
+- ⚡ Fun fact: The human circulatory system is more than 60,000 miles long.
+- Religion: Christian
+
+
+
+Bible verse of today:
+
+
