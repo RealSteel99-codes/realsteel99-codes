@@ -3,7 +3,7 @@ name: Update Bible Verse
 on:
   schedule:
     - cron: '0 5 * * *'  # Midnight CDT
-  workflow_dispatch:  # Allows manual trigger
+  workflow_dispatch:  
 
 jobs:
   update-readme:
