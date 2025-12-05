@@ -3,7 +3,7 @@ name: Update Bible Verse
 on:
   schedule:
     - cron: '0 5 * * *'  # Midnight CDT
-  workflow_dispatch:  
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -20,16 +20,15 @@ jobs:
       - name: List repo files
         run: ls -R
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Update Bible Verse
         run: python update_verse.py
 
       - name: Commit & Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update Bible verse" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
