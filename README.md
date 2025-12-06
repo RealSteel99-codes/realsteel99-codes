@@ -14,6 +14,6 @@
 
 
 
-Bible verse of today: "And immediately, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John." — *Mark 1:29*
+Bible verse of today: "But Simon’s wife’s mother lay sick of a fever, and immediately they tell him of her." — *Mark 1:30*
 
 
