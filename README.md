@@ -14,6 +14,6 @@
 
 
 
-Bible verse of today: "But Simon’s wife’s mother lay sick of a fever, and immediately they tell him of her." — *Mark 1:30*
+Bible verse of today: "The LORD is close to the brokenhearted; he rescues those whose spirits are crushed." *Psalms 34:18 - NLT*
 
 
