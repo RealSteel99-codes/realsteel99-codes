@@ -27,10 +27,7 @@ jobs:
         run: python fact_update_minimal.py
 
       - name: Commit and Push changes
-        uses: stefanprodan/commitwithaction@v1.0.0
+        uses: stefanwa/git-auto-commit-action@v5
         with:
-          commit_message: "✨ New Random Fact of the Day"
-          files: README.md
-          branch: ${{ github.ref_name }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "New Random Fact of the Day"
+          file_pattern: 'README.md'
