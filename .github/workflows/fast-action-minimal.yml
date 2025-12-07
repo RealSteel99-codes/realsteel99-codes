@@ -27,7 +27,7 @@ jobs:
         
       - name: Run Python script to update README
         # Assumes your Python file is named 'update_readme.py' in the root directory
-        run: python update_readme.py
+        run: python fact_update_minimal.py
         
       - name: Auto-commit changes to README
         # THIS USES THE CORRECT ACTION NAME: stefanzweifel/git-auto-commit-action
