@@ -1,6 +1,7 @@
 import json
 from datetime import date
 import os
+import random 
 
 with open("AKJV.json", "r", encoding="utf-8") as f:
     bible_data = json.load(f)
@@ -20,9 +21,10 @@ for book in bible_data["books"]:
                 "text": verse_text
             })
 
-today = date.today()
-index = today.toordinal() % len(verses_list)
-verse_of_the_day = verses_list[index]
+# Fixed non randomness
+# The date logic is replaced with random.choice
+verse_of_the_day = random.choice(verses_list)
+
 
 verse_text = verse_of_the_day["text"]
 verse_ref = f"{verse_of_the_day['book']} {verse_of_the_day['chapter']}:{verse_of_the_day['verse']}"
@@ -36,6 +38,8 @@ if not os.path.isfile(readme_file):
 with open(readme_file, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
+# The date import is kept but not used, so you can remove it if you like, 
+# but it doesn't hurt to leave it.
 for i, line in enumerate(lines):
     if line.startswith("Bible verse of today:"):
         lines[i] = new_verse_md + "\n"
