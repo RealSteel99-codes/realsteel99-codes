@@ -14,6 +14,6 @@
 
 
 
-Bible verse of today: "The LORD is close to the brokenhearted; he rescues those whose spirits are crushed." *Psalms 34:18 - NLT*
+Bible verse of today: "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered to them." — *Mark 1:31*
 
 
