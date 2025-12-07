@@ -1,0 +1,36 @@
+name: Update Fact of the Day
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-fact:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Fact Update Script
+        run: python fact_update_minimal.py
+
+      - name: Commit and Push changes
+        uses: stefanprodan/commitwithaction@v1.0.0
+        with:
+          commit_message: "✨ New Random Fact of the Day"
+          files: README.md
+          branch: ${{ github.ref_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
