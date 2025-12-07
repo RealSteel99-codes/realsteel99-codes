@@ -14,6 +14,6 @@
 
 
 
-Bible verse of today: "And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered to them." — *Mark 1:31*
+Bible verse of today: "And they shall take up a lamentation for you, and say to you, How are you destroyed, that were inhabited of seafaring men, the renowned city, which were strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!" — *Ezekiel 26:17*
 
 
