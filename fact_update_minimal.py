@@ -11,13 +11,13 @@ FACT_PREFIX = "- ⚡ Fun fact of today: "
 def fetch_random_fact():
     try:
         response = requests.get(FACT_API_URL)
-        response.raise_for_status()
+        response.raise_for_status() 
         data = response.json()
         fact_text = data.get("text")
         
         if not fact_text:
             return None
-        
+            
         formatted_fact_line = f"{FACT_PREFIX}{fact_text}"
         return formatted_fact_line
         
@@ -39,8 +39,10 @@ def update_readme(new_fact_line):
 
     if start_index == -1 or end_index == -1:
         return False
-
-    before_content = content[:start_index + len(MARKER_START)]
+    
+    content_start = start_index + len(MARKER_START)
+    
+    before_content = content[:content_start]
     after_content = content[end_index:]
 
     new_readme_content = f"{before_content}\n{new_fact_line}\n{after_content}"
@@ -52,4 +54,5 @@ def update_readme(new_fact_line):
 
 if __name__ == "__main__":
     fact_line = fetch_random_fact()
-    update_readme(fact_line)
+    if fact_line:
+        update_readme(fact_line)
