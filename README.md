@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And they shall take up a lamentation for you, and say to you, How are you destroyed, that were inhabited of seafaring men, the renowned city, which were strong in the sea, she and her inhabitants, which cause their terror to be on all that haunt it!" — *Ezekiel 26:17*
+Bible verse of today: "Your fathers, where are they? and the prophets, do they live for ever?" — *Zechariah 1:5*
 
 
