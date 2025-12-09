@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Your fathers, where are they? and the prophets, do they live for ever?" — *Zechariah 1:5*
+Bible verse of today: "And when the hour was come, he sat down, and the twelve apostles with him." — *Luke 22:14*
 
 
