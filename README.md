@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And when the hour was come, he sat down, and the twelve apostles with him." — *Luke 22:14*
+Bible verse of today: "Of Heman: the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:" — *I Chronicles 25:4*
 
 
