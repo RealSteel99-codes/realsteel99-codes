@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Of Heman: the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:" — *I Chronicles 25:4*
+Bible verse of today: "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns on his heads." — *Revelation of John 12:3*
 
 
