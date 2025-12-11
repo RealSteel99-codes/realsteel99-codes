@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about anything coding
 - 📫 How to reach me: c44014189@gmail.com
-- ⚡ Fun fact: The human circulatory system is more than 60,000 miles long.
+
 - Religion: Christian
 
 
