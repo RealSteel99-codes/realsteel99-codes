@@ -6,7 +6,7 @@ README_PATH = "README.md"
 FACT_API_URL = "https://uselessfacts.jsph.pl/random.json"
 MARKER_START = ""
 MARKER_END = ""
-FACT_PREFIX = "- ⚡ Fun fact of today: "
+FACT_PREFIX = "-  Fun fact of today: "
 
 def fetch_random_fact():
     try:
