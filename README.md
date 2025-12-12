@@ -1,4 +1,6 @@
 
+-  Fun fact of today: Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.
+
 -  Fun fact of today: The average human blinks their eyes 6,205,000 times each year.
 
 
