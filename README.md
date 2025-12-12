@@ -19,6 +19,6 @@
 
 
 
-Bible verse of today: "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns on his heads." — *Revelation of John 12:3*
+Bible verse of today: "Let that day be darkness; let not God regard it from above, neither let the light shine on it." — *Job 3:4*
 
 
