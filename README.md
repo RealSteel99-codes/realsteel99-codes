@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the sons of Elkanah; Amasai, and Ahimoth." — *I Chronicles 6:25*
+Bible verse of today: "While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell on the camels, and have carried them away, yes, and slain the servants with the edge of the sword; and I only am escaped alone to tell you." — *Job 1:17*
 
 
