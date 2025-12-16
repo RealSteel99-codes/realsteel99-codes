@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell on the camels, and have carried them away, yes, and slain the servants with the edge of the sword; and I only am escaped alone to tell you." — *Job 1:17*
+Bible verse of today: "And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and you shall know that I am the LORD." — *Ezekiel 20:38*
 
 
