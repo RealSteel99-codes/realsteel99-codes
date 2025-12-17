@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and you shall know that I am the LORD." — *Ezekiel 20:38*
+Bible verse of today: "Because they provoked his spirit, so that he spoke unadvisedly with his lips." — *Psalms 106:33*
 
 
