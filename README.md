@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And there was a widow in that city; and she came to him, saying, Avenge me of my adversary." — *Luke 18:3*
+Bible verse of today: "If you be reproached for the name of Christ, happy are you; for the spirit of glory and of God rests on you: on their part he is evil spoken of, but on your part he is glorified." — *I Peter 4:14*
 
 
