@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "If you be reproached for the name of Christ, happy are you; for the spirit of glory and of God rests on you: on their part he is evil spoken of, but on your part he is glorified." — *I Peter 4:14*
+Bible verse of today: "But now, after that you have known God, or rather are known of God, how turn you again to the weak and beggarly elements, to which you desire again to be in bondage?" — *Galatians 4:9*
 
 
