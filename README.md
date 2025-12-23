@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And if Satan rise up against himself, and be divided, he cannot stand, but has an end." — *Mark 3:26*
+Bible verse of today: "You that put far away the evil day, and cause the seat of violence to come near;" — *Amos 6:3*
 
 
