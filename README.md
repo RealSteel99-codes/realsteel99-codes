@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "You that put far away the evil day, and cause the seat of violence to come near;" — *Amos 6:3*
+Bible verse of today: "And the first of all the first fruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: you shall also give to the priest the first of your dough, that he may cause the blessing to rest in your house." — *Ezekiel 44:30*
 
 
