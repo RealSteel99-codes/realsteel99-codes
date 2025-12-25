@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the first of all the first fruits of all things, and every oblation of all, of every sort of your oblations, shall be the priest’s: you shall also give to the priest the first of your dough, that he may cause the blessing to rest in your house." — *Ezekiel 44:30*
+Bible verse of today: "And the king sent, and they gathered to him all the elders of Judah and of Jerusalem." — *II Kings 23:1*
 
 
