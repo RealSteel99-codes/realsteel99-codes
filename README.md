@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the king sent, and they gathered to him all the elders of Judah and of Jerusalem." — *II Kings 23:1*
+Bible verse of today: "After him repaired the Levites, Rehum the son of Bani. Next to him repaired Hashabiah, the ruler of the half part of Keilah, in his part." — *Nehemiah 3:17*
 
 
