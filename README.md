@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "After him repaired the Levites, Rehum the son of Bani. Next to him repaired Hashabiah, the ruler of the half part of Keilah, in his part." — *Nehemiah 3:17*
+Bible verse of today: "For on the plates of the ledges thereof, and on the borders thereof, he graved cherubim, lions, and palm trees, according to the proportion of every one, and additions round about." — *I Kings 7:36*
 
 
