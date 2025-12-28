@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "For on the plates of the ledges thereof, and on the borders thereof, he graved cherubim, lions, and palm trees, according to the proportion of every one, and additions round about." — *I Kings 7:36*
+Bible verse of today: "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.   ¶" — *Numbers 1:33*
 
 
