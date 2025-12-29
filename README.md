@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.   ¶" — *Numbers 1:33*
+Bible verse of today: "And the king of Ai they took alive, and brought him to Joshua." — *Joshua 8:23*
 
 
