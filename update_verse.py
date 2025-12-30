@@ -38,8 +38,7 @@ if not os.path.isfile(readme_file):
 with open(readme_file, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
-# The date import is kept but not used, so you can remove it if you like, 
-# but it doesn't hurt to leave it.
+
 for i, line in enumerate(lines):
     if line.startswith("Bible verse of today:"):
         lines[i] = new_verse_md + "\n"
