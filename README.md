@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the king of Ai they took alive, and brought him to Joshua." — *Joshua 8:23*
+Bible verse of today: "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;" — *Exodus 35:27*
 
 
