@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;" — *Exodus 35:27*
+Bible verse of today: "But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from there, and will bring them to the place that I have chosen to set my name there." — *Nehemiah 1:9*
 
 
