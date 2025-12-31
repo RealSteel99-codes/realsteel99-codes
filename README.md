@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "But if you turn to me, and keep my commandments, and do them; though there were of you cast out to the uttermost part of the heaven, yet will I gather them from there, and will bring them to the place that I have chosen to set my name there." — *Nehemiah 1:9*
+Bible verse of today: "And a stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.   ¶" — *Daniel 6:17*
 
 
