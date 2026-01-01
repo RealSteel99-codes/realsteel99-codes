@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And a stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.   ¶" — *Daniel 6:17*
+Bible verse of today: "You have avouched the LORD this day to be your God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to listen to his voice:" — *Deuteronomy 26:17*
 
 
