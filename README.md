@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "So the king of the south shall come into his kingdom, and shall return into his own land." — *Daniel 11:9*
+Bible verse of today: "Who is like to you, O LORD, among the gods? who is like you, glorious in holiness, fearful in praises, doing wonders?" — *Exodus 15:11*
 
 
