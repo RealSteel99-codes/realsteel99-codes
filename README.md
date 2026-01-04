@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Who is like to you, O LORD, among the gods? who is like you, glorious in holiness, fearful in praises, doing wonders?" — *Exodus 15:11*
+Bible verse of today: "And if you refuse to let them go, behold, I will smite all your borders with frogs:" — *Exodus 8:2*
 
 
