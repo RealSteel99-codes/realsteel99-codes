@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And if you refuse to let them go, behold, I will smite all your borders with frogs:" — *Exodus 8:2*
+Bible verse of today: "Will the Lord cast off for ever? and will he be favorable no more?" — *Psalms 77:7*
 
 
