@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Will the Lord cast off for ever? and will he be favorable no more?" — *Psalms 77:7*
+Bible verse of today: "And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as did the house of Ahab: for he was the son in law of the house of Ahab.   ¶" — *II Kings 8:27*
 
 
