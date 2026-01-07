@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as did the house of Ahab: for he was the son in law of the house of Ahab.   ¶" — *II Kings 8:27*
+Bible verse of today: "And they said, Some say that you are John the Baptist: some, Elias; and others, Jeremias, or one of the prophets." — *Matthew 16:14*
 
 
