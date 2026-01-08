@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And they said, Some say that you are John the Baptist: some, Elias; and others, Jeremias, or one of the prophets." — *Matthew 16:14*
+Bible verse of today: "And whoever touches her bed shall wash his clothes, and bathe himself in water, and be unclean until the even." — *Leviticus 15:21*
 
 
