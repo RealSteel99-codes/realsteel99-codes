@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And he removed from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he built an altar to the LORD, and called on the name of the LORD." — *Genesis 12:8*
+Bible verse of today: "For though you have ten thousand instructors in Christ, yet have you not many fathers: for in Christ Jesus I have begotten you through the gospel." — *I Corinthians 4:15*
 
 
