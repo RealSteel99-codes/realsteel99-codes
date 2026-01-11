@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "For though you have ten thousand instructors in Christ, yet have you not many fathers: for in Christ Jesus I have begotten you through the gospel." — *I Corinthians 4:15*
+Bible verse of today: "Are the consolations of God small with you? is there any secret thing with you?" — *Job 15:11*
 
 
