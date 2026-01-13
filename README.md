@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And there was Mary Magdalene, and the other Mary, sitting over against the sepulcher.   ¶" — *Matthew 27:61*
+Bible verse of today: "If the LORD delight in us, then he will bring us into this land, and give it us; a land which flows with milk and honey." — *Numbers 14:8*
 
 
