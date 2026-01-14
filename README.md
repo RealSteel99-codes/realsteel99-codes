@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "If the LORD delight in us, then he will bring us into this land, and give it us; a land which flows with milk and honey." — *Numbers 14:8*
+Bible verse of today: "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.   ¶" — *Numbers 29:16*
 
 
