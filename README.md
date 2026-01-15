@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.   ¶" — *Numbers 29:16*
+Bible verse of today: "And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day." — *Judges 20:22*
 
 
