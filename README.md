@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day." — *Judges 20:22*
+Bible verse of today: "But when Herod was dead, behold, an angel of the Lord appears in a dream to Joseph in Egypt," — *Matthew 2:19*
 
 
