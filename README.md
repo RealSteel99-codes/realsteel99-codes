@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "But when Herod was dead, behold, an angel of the Lord appears in a dream to Joseph in Egypt," — *Matthew 2:19*
+Bible verse of today: "The children of Senaah, three thousand nine hundred and thirty.   ¶" — *Nehemiah 7:38*
 
 
