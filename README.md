@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "The children of Senaah, three thousand nine hundred and thirty.   ¶" — *Nehemiah 7:38*
+Bible verse of today: "Make their nobles like Oreb, and like Zeeb: yes, all their princes as Zebah, and as Zalmunna:" — *Psalms 83:11*
 
 
