@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Make their nobles like Oreb, and like Zeeb: yes, all their princes as Zebah, and as Zalmunna:" — *Psalms 83:11*
+Bible verse of today: "Why I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?" — *Ecclesiastes 3:22*
 
 
