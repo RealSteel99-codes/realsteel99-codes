@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Why I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?" — *Ecclesiastes 3:22*
+Bible verse of today: "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years." — *Ruth 1:4*
 
 
