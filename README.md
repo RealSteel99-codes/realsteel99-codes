@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years." — *Ruth 1:4*
+Bible verse of today: "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth on his head: and so it was, when he came to David, that he fell to the earth, and did obeisance." — *II Samuel 1:2*
 
 
