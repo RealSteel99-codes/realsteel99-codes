@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth on his head: and so it was, when he came to David, that he fell to the earth, and did obeisance." — *II Samuel 1:2*
+Bible verse of today: "Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by." — *I Samuel 18:30*
 
 
