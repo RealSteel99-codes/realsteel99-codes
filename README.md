@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by." — *I Samuel 18:30*
+Bible verse of today: "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven." — *Psalms 148:13*
 
 
