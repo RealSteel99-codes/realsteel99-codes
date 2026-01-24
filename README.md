@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Let them praise the name of the LORD: for his name alone is excellent; his glory is above the earth and heaven." — *Psalms 148:13*
+Bible verse of today: "And has made of one blood all nations of men for to dwell on all the face of the earth, and has determined the times before appointed, and the bounds of their habitation;" — *Acts 17:26*
 
 
