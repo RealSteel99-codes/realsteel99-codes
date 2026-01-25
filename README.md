@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And has made of one blood all nations of men for to dwell on all the face of the earth, and has determined the times before appointed, and the bounds of their habitation;" — *Acts 17:26*
+Bible verse of today: "But the king took the two sons of Rizpah the daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:" — *II Samuel 21:8*
 
 
