@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "But the king took the two sons of Rizpah the daughter of Aiah, whom she bore to Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:" — *II Samuel 21:8*
+Bible verse of today: "In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons were four thousand and six hundred.   ¶" — *Jeremiah 52:30*
 
 
