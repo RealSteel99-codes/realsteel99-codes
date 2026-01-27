@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons: all the persons were four thousand and six hundred.   ¶" — *Jeremiah 52:30*
+Bible verse of today: "These things have you done, and I kept silence; you thought that I was altogether such an one as yourself: but I will reprove you, and set them in order before your eyes." — *Psalms 50:21*
 
 
