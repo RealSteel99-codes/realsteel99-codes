@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "These things have you done, and I kept silence; you thought that I was altogether such an one as yourself: but I will reprove you, and set them in order before your eyes." — *Psalms 50:21*
+Bible verse of today: "Blessed are those servants, whom the lord when he comes shall find watching: truly I say to you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them." — *Luke 12:37*
 
 
