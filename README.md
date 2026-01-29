@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "Blessed are those servants, whom the lord when he comes shall find watching: truly I say to you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them." — *Luke 12:37*
+Bible verse of today: "And he set the priests in their charges, and encouraged them to the service of the house of the LORD," — *II Chronicles 35:2*
 
 
