@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And he set the priests in their charges, and encouraged them to the service of the house of the LORD," — *II Chronicles 35:2*
+Bible verse of today: "And till Moses had done speaking with them, he put a veil on his face." — *Exodus 34:33*
 
 
