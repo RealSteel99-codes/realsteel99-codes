@@ -1,4 +1,6 @@
 
+-  Fun fact of today: There are no words in the dictionary that rhyme with orange, purple, silver and month.
+
 
 
 
