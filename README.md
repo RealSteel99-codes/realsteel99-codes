@@ -16,6 +16,6 @@
 
 
 
-Bible verse of today: "And till Moses had done speaking with them, he put a veil on his face." — *Exodus 34:33*
+Bible verse of today: "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;" — *Acts 17:24*
 
 
