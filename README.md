@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwells not in temples made with hands;" — *Acts 17:24*
+Bible verse of today: "For thus says the Lord GOD; I will bring up a company on them, and will give them to be removed and spoiled." — *Ezekiel 23:46*
 
 
