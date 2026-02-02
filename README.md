@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "For thus says the Lord GOD; I will bring up a company on them, and will give them to be removed and spoiled." — *Ezekiel 23:46*
+Bible verse of today: "Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the show bread table, with all the vessels thereof." — *II Chronicles 29:18*
 
 
