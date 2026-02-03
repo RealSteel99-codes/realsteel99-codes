@@ -1,4 +1,6 @@
 
+-  Fun fact of today: It takes about 142.18 licks to reach the center of a Tootsie pop.
+
 -  Fun fact of today: There are no words in the dictionary that rhyme with orange, purple, silver and month.
 
 
