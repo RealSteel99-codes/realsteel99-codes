@@ -20,6 +20,6 @@
 
 
 
-Bible verse of today: "Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the show bread table, with all the vessels thereof." — *II Chronicles 29:18*
+Bible verse of today: "Do they provoke me to anger? says the LORD: do they not provoke themselves to the confusion of their own faces?" — *Jeremiah 7:19*
 
 
