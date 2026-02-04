@@ -22,6 +22,6 @@
 
 
 
-Bible verse of today: "Do they provoke me to anger? says the LORD: do they not provoke themselves to the confusion of their own faces?" — *Jeremiah 7:19*
+Bible verse of today: "Consider what I say; and the Lord give you understanding in all things." — *II Timothy 2:7*
 
 
