@@ -1,4 +1,6 @@
 
+-  Fun fact of today:     Dueling is legal in Paraguay as long as both parties are registered blood donors.
+
 -  Fun fact of today: It takes about 142.18 licks to reach the center of a Tootsie pop.
 
 -  Fun fact of today: There are no words in the dictionary that rhyme with orange, purple, silver and month.
