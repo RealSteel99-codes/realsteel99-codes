@@ -1,4 +1,6 @@
 
+-  Fun fact of today: Some lions mate over 50 times a day.
+
 -  Fun fact of today:     Dueling is legal in Paraguay as long as both parties are registered blood donors.
 
 -  Fun fact of today: It takes about 142.18 licks to reach the center of a Tootsie pop.
