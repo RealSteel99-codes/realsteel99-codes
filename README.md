@@ -24,6 +24,6 @@
 
 
 
-Bible verse of today: "Consider what I say; and the Lord give you understanding in all things." — *II Timothy 2:7*
+Bible verse of today: "For yet a little while, and he that shall come will come, and will not tarry." — *Hebrews 10:37*
 
 
