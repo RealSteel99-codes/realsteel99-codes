@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "For yet a little while, and he that shall come will come, and will not tarry." — *Hebrews 10:37*
+Bible verse of today: "And shall begin to smite his fellow servants, and to eat and drink with the drunken;" — *Matthew 24:49*
 
 
