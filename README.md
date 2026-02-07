@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And shall begin to smite his fellow servants, and to eat and drink with the drunken;" — *Matthew 24:49*
+Bible verse of today: "Israel shall cry to me, My God, we know you." — *Hosea 8:2*
 
 
