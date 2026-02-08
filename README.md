@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Israel shall cry to me, My God, we know you." — *Hosea 8:2*
+Bible verse of today: "The things that my soul refused to touch are as my sorrowful meat." — *Job 6:7*
 
 
