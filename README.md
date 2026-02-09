@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "The things that my soul refused to touch are as my sorrowful meat." — *Job 6:7*
+Bible verse of today: "Hear you in heaven your dwelling place, and do according to all that the stranger calls to you for: that all people of the earth may know your name, to fear you, as do your people Israel; and that they may know that this house, which I have built, is called by your name.   ¶" — *I Kings 8:43*
 
 
