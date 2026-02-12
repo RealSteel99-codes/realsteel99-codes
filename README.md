@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And Shaphan the scribe came to the king, and brought the king word again, and said, Your servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD." — *II Kings 22:9*
+Bible verse of today: "Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob." — *Luke 20:37*
 
 
