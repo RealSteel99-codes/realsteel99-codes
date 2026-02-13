@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob." — *Luke 20:37*
+Bible verse of today: "And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.   ¶" — *I Samuel 18:11*
 
 
