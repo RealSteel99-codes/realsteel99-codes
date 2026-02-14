@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And Saul cast the javelin; for he said, I will smite David even to the wall with it. And David avoided out of his presence twice.   ¶" — *I Samuel 18:11*
+Bible verse of today: "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy to all the brothers." — *Acts 15:3*
 
 
