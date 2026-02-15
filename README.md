@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy to all the brothers." — *Acts 15:3*
+Bible verse of today: "Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began," — *II Timothy 1:9*
 
 
