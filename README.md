@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Who has saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began," — *II Timothy 1:9*
+Bible verse of today: "Howl, O Heshbon, for Ai is spoiled: cry, you daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together." — *Jeremiah 49:3*
 
 
