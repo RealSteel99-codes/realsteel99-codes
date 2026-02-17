@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Howl, O Heshbon, for Ai is spoiled: cry, you daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, and his priests and his princes together." — *Jeremiah 49:3*
+Bible verse of today: "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:" — *Leviticus 14:51*
 
 
