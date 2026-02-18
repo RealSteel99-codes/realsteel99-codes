@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:" — *Leviticus 14:51*
+Bible verse of today: "So it shall be a reproach and a taunt, an instruction and an astonishment to the nations that are round about you, when I shall execute judgments in you in anger and in fury and in furious rebukes. I the LORD have spoken it." — *Ezekiel 5:15*
 
 
