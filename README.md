@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "So it shall be a reproach and a taunt, an instruction and an astonishment to the nations that are round about you, when I shall execute judgments in you in anger and in fury and in furious rebukes. I the LORD have spoken it." — *Ezekiel 5:15*
+Bible verse of today: "For I am the LORD, I change not; therefore you sons of Jacob are not consumed.   ¶" — *Malachi 3:6*
 
 
