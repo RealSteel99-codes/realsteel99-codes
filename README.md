@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "For I am the LORD, I change not; therefore you sons of Jacob are not consumed.   ¶" — *Malachi 3:6*
+Bible verse of today: "And he said, Oh let not the LORD be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake." — *Genesis 18:32*
 
 
