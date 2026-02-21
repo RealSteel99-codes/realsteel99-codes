@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And he said, Oh let not the LORD be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten’s sake." — *Genesis 18:32*
+Bible verse of today: "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon." — *Revelation of John 13:11*
 
 
