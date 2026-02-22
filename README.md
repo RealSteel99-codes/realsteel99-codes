@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spoke as a dragon." — *Revelation of John 13:11*
+Bible verse of today: "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesses you, and cursed is he that curses you.   ¶" — *Numbers 24:9*
 
 
