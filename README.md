@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesses you, and cursed is he that curses you.   ¶" — *Numbers 24:9*
+Bible verse of today: "And Moses said to his father in law, Because the people come to me to inquire of God:" — *Exodus 18:15*
 
 
