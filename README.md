@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And Moses said to his father in law, Because the people come to me to inquire of God:" — *Exodus 18:15*
+Bible verse of today: "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses." — *II Chronicles 34:14*
 
 
