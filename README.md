@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses." — *II Chronicles 34:14*
+Bible verse of today: "Blessed are you, O land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!   ¶" — *Ecclesiastes 10:17*
 
 
