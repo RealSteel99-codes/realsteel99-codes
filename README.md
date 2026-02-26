@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Blessed are you, O land, when your king is the son of nobles, and your princes eat in due season, for strength, and not for drunkenness!   ¶" — *Ecclesiastes 10:17*
+Bible verse of today: "A blessing, if you obey the commandments of the LORD your God, which I command you this day:" — *Deuteronomy 11:27*
 
 
