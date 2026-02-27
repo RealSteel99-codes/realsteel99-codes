@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "A blessing, if you obey the commandments of the LORD your God, which I command you this day:" — *Deuteronomy 11:27*
+Bible verse of today: "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ." — *I Peter 3:16*
 
 
