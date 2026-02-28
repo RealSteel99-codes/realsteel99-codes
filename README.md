@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ." — *I Peter 3:16*
+Bible verse of today: "And the LORD listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.   ¶" — *Numbers 21:3*
 
 
