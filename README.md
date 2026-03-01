@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "And the LORD listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.   ¶" — *Numbers 21:3*
+Bible verse of today: "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul." — *Acts 13:1*
 
 
