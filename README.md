@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul." — *Acts 13:1*
+Bible verse of today: "If you meet your enemy’s ox or his ass going astray, you shall surely bring it back to him again." — *Exodus 23:4*
 
 
