@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "If you meet your enemy’s ox or his ass going astray, you shall surely bring it back to him again." — *Exodus 23:4*
+Bible verse of today: "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of two one new man, so making peace;" — *Ephesians 2:15*
 
 
