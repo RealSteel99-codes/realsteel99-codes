@@ -18,6 +18,6 @@
 
 
 
-Bible verse of today: "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of two one new man, so making peace;" — *Ephesians 2:15*
+Bible verse of today: "And he said, They were my brothers, even the sons of my mother: as the LORD lives, if you had saved them alive, I would not slay you." — *Judges 8:19*
 
 
