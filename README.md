@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And he said, They were my brothers, even the sons of my mother: as the LORD lives, if you had saved them alive, I would not slay you." — *Judges 8:19*
+Bible verse of today: "And the next to him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and which sat the first in the kingdom;)" — *Esther 1:14*
 
 
