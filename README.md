@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And the next to him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king’s face, and which sat the first in the kingdom;)" — *Esther 1:14*
+Bible verse of today: "And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses to the people." — *Acts 13:31*
 
 
