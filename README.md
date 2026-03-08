@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Therefore go you, and read in the roll, which you have written from my mouth, the words of the LORD in the ears of the people in the LORD’s house on the fasting day: and also you shall read them in the ears of all Judah that come out of their cities." — *Jeremiah 36:6*
+Bible verse of today: "And you, being dead in your sins and the uncircumcision of your flesh, has he quickened together with him, having forgiven you all trespasses;" — *Colossians 2:13*
 
 
