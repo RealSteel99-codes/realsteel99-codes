@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And you, being dead in your sins and the uncircumcision of your flesh, has he quickened together with him, having forgiven you all trespasses;" — *Colossians 2:13*
+Bible verse of today: "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented to him gifts; gold, and frankincense and myrrh." — *Matthew 2:11*
 
 
