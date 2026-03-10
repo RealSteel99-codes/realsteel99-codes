@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented to him gifts; gold, and frankincense and myrrh." — *Matthew 2:11*
+Bible verse of today: "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God." — *Philippians 1:28*
 
 
