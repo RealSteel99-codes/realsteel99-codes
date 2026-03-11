@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God." — *Philippians 1:28*
+Bible verse of today: "O give thanks to the LORD; call on his name: make known his deeds among the people." — *Psalms 105:1*
 
 
