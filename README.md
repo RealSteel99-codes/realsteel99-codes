@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "O give thanks to the LORD; call on his name: make known his deeds among the people." — *Psalms 105:1*
+Bible verse of today: "The north wind drives away rain: so does an angry countenance a backbiting tongue." — *Proverbs 25:23*
 
 
