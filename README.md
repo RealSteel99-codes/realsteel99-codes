@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "The north wind drives away rain: so does an angry countenance a backbiting tongue." — *Proverbs 25:23*
+Bible verse of today: "And you shall make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same." — *Exodus 25:31*
 
 
