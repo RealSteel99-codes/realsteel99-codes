@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And you shall make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same." — *Exodus 25:31*
+Bible verse of today: "Be you mindful always of his covenant; the word which he commanded to a thousand generations;" — *I Chronicles 16:15*
 
 
