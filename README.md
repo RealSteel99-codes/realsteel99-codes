@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Be you mindful always of his covenant; the word which he commanded to a thousand generations;" — *I Chronicles 16:15*
+Bible verse of today: "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:" — *John 19:17*
 
 
