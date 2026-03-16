@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:" — *John 19:17*
+Bible verse of today: "Have not I commanded you? Be strong and of a good courage; be not afraid, neither be you dismayed: for the LORD your God is with you wherever you go.   ¶" — *Joshua 1:9*
 
 
