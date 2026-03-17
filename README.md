@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Have not I commanded you? Be strong and of a good courage; be not afraid, neither be you dismayed: for the LORD your God is with you wherever you go.   ¶" — *Joshua 1:9*
+Bible verse of today: "When he speaks fair, believe him not: for there are seven abominations in his heart." — *Proverbs 26:25*
 
 
