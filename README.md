@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "When he speaks fair, believe him not: for there are seven abominations in his heart." — *Proverbs 26:25*
+Bible verse of today: "Will the Lord cast off for ever? and will he be favorable no more?" — *Psalms 77:7*
 
 
