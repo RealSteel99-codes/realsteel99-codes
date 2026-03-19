@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Will the Lord cast off for ever? and will he be favorable no more?" — *Psalms 77:7*
+Bible verse of today: "Behold, how good and how pleasant it is for brothers to dwell together in unity!" — *Psalms 133:1*
 
 
