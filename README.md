@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Behold, how good and how pleasant it is for brothers to dwell together in unity!" — *Psalms 133:1*
+Bible verse of today: "We be twelve brothers, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan." — *Genesis 42:32*
 
 
