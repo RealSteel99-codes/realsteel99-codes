@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "We be twelve brothers, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan." — *Genesis 42:32*
+Bible verse of today: "My heart is smitten, and withered like grass; so that I forget to eat my bread." — *Psalms 102:4*
 
 
