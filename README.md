@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?" — *James 2:25*
+Bible verse of today: "And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines." — *Judges 14:1*
 
 
