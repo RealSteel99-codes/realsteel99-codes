@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines." — *Judges 14:1*
+Bible verse of today: "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them." — *Jeremiah 36:25*
 
 
