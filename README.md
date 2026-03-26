@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them." — *Jeremiah 36:25*
+Bible verse of today: "As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel," — *II Chronicles 8:7*
 
 
