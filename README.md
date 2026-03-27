@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel," — *II Chronicles 8:7*
+Bible verse of today: "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:" — *Numbers 7:31*
 
 
