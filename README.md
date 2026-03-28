@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "His offering was one silver charger of the weight of an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:" — *Numbers 7:31*
+Bible verse of today: "Therefore thus says the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believes shall not make haste." — *Isaiah 28:16*
 
 
