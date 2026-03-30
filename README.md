@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, says the LORD of hosts." — *Malachi 3:5*
+Bible verse of today: "Slay all her bullocks; let them go down to the slaughter: woe to them! for their day is come, the time of their visitation." — *Jeremiah 50:27*
 
 
