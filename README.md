@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Slay all her bullocks; let them go down to the slaughter: woe to them! for their day is come, the time of their visitation." — *Jeremiah 50:27*
+Bible verse of today: "And she has changed my judgments into wickedness more than the nations, and my statutes more than the countries that are round about her: for they have refused my judgments and my statutes, they have not walked in them." — *Ezekiel 5:6*
 
 
