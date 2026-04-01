@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And she has changed my judgments into wickedness more than the nations, and my statutes more than the countries that are round about her: for they have refused my judgments and my statutes, they have not walked in them." — *Ezekiel 5:6*
+Bible verse of today: "And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fuller’s field." — *II Kings 18:17*
 
 
