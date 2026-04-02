@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fuller’s field." — *II Kings 18:17*
+Bible verse of today: "Have you suffered so many things in vain? if it be yet in vain." — *Galatians 3:4*
 
 
