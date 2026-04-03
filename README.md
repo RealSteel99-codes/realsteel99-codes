@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "Have you suffered so many things in vain? if it be yet in vain." — *Galatians 3:4*
+Bible verse of today: "And he spoke a parable to them to this end, that men should always to pray, and not to faint;" — *Luke 18:1*
 
 
