@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And he spoke a parable to them to this end, that men should always to pray, and not to faint;" — *Luke 18:1*
+Bible verse of today: "And Boaz begat Obed, and Obed begat Jesse,   ¶" — *I Chronicles 2:12*
 
 
