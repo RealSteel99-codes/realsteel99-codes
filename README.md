@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And Boaz begat Obed, and Obed begat Jesse,   ¶" — *I Chronicles 2:12*
+Bible verse of today: "When you are come to the land which the LORD your God gives you, and shall possess it, and shall dwell therein, and shall say, I will set a king over me, like as all the nations that are about me;" — *Deuteronomy 17:14*
 
 
