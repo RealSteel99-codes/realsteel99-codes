@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "When you are come to the land which the LORD your God gives you, and shall possess it, and shall dwell therein, and shall say, I will set a king over me, like as all the nations that are about me;" — *Deuteronomy 17:14*
+Bible verse of today: "And the times of this ignorance God winked at; but now commands all men every where to repent:" — *Acts 17:30*
 
 
