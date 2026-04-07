@@ -18,6 +18,6 @@ arch btw
 
 
 
-Bible verse of today: "And the times of this ignorance God winked at; but now commands all men every where to repent:" — *Acts 17:30*
+Bible verse of today: "And certain of the priests’ sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:" — *Nehemiah 12:35*
 
 
