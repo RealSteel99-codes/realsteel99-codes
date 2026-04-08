@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And certain of the priests’ sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:" — *Nehemiah 12:35*
+Bible verse of today: "And the fear of the LORD fell on all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat." — *II Chronicles 17:10*
 
 
