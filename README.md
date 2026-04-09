@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And the fear of the LORD fell on all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat." — *II Chronicles 17:10*
+Bible verse of today: "Let this be the reward of my adversaries from the LORD, and of them that speak evil against my soul." — *Psalms 109:20*
 
 
