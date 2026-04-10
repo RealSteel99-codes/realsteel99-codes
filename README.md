@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Let this be the reward of my adversaries from the LORD, and of them that speak evil against my soul." — *Psalms 109:20*
+Bible verse of today: "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, to the house of the LORD." — *Jeremiah 17:26*
 
 
