@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, to the house of the LORD." — *Jeremiah 17:26*
+Bible verse of today: "Jesus said to him, It is written again, You shall not tempt the Lord your God." — *Matthew 4:7*
 
 
