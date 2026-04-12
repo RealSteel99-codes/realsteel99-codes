@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Jesus said to him, It is written again, You shall not tempt the Lord your God." — *Matthew 4:7*
+Bible verse of today: "Are you not then partial in yourselves, and are become judges of evil thoughts?" — *James 2:4*
 
 
