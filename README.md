@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Are you not then partial in yourselves, and are become judges of evil thoughts?" — *James 2:4*
+Bible verse of today: "To bind their kings with chains, and their nobles with fetters of iron;" — *Psalms 149:8*
 
 
