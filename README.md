@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "To bind their kings with chains, and their nobles with fetters of iron;" — *Psalms 149:8*
+Bible verse of today: "For he shall be like the heath in the desert, and shall not see when good comes; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited." — *Jeremiah 17:6*
 
 
