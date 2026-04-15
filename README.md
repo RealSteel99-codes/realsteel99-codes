@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "For he shall be like the heath in the desert, and shall not see when good comes; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited." — *Jeremiah 17:6*
+Bible verse of today: "Then Esther bade them return Mordecai this answer," — *Esther 4:15*
 
 
