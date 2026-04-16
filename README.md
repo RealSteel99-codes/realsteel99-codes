@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Then Esther bade them return Mordecai this answer," — *Esther 4:15*
+Bible verse of today: "And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David’s." — *I Chronicles 27:31*
 
 
