@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David’s." — *I Chronicles 27:31*
+Bible verse of today: "These things I command you, that you love one another." — *John 15:17*
 
 
