@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "These things I command you, that you love one another." — *John 15:17*
+Bible verse of today: "And it yields much increase to the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress." — *Nehemiah 9:37*
 
 
