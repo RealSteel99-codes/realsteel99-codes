@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "How long will you speak these things? and how long shall the words of your mouth be like a strong wind?" — *Job 8:2*
+Bible verse of today: "They have blown the trumpet, even to make all ready; but none goes to the battle: for my wrath is on all the multitude thereof." — *Ezekiel 7:14*
 
 
