@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "They have blown the trumpet, even to make all ready; but none goes to the battle: for my wrath is on all the multitude thereof." — *Ezekiel 7:14*
+Bible verse of today: "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary." — *Numbers 3:28*
 
 
