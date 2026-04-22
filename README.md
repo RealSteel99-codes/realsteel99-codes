@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary." — *Numbers 3:28*
+Bible verse of today: "O God, you are my God; early will I seek you: my soul thirsts for you, my flesh longs for you in a dry and thirsty land, where no water is;" — *Psalms 63:1*
 
 
