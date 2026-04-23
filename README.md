@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "O God, you are my God; early will I seek you: my soul thirsts for you, my flesh longs for you in a dry and thirsty land, where no water is;" — *Psalms 63:1*
+Bible verse of today: "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the middle of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones." — *Jeremiah 48:45*
 
 
