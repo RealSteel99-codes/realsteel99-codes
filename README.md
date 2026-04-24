@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the middle of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones." — *Jeremiah 48:45*
+Bible verse of today: "It is not good to eat much honey: so for men to search their own glory is not glory." — *Proverbs 25:27*
 
 
