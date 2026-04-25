@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "It is not good to eat much honey: so for men to search their own glory is not glory." — *Proverbs 25:27*
+Bible verse of today: "Behold, the day of the LORD comes, and your spoil shall be divided in the middle of you." — *Zechariah 14:1*
 
 
