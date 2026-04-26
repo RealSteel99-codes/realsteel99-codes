@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Behold, the day of the LORD comes, and your spoil shall be divided in the middle of you." — *Zechariah 14:1*
+Bible verse of today: "Are the consolations of God small with you? is there any secret thing with you?" — *Job 15:11*
 
 
