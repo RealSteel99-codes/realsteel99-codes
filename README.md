@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Are the consolations of God small with you? is there any secret thing with you?" — *Job 15:11*
+Bible verse of today: "For all the land which you see, to you will I give it, and to your seed for ever." — *Genesis 13:15*
 
 
