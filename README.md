@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "For all the land which you see, to you will I give it, and to your seed for ever." — *Genesis 13:15*
+Bible verse of today: "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria." — *II Kings 9:14*
 
 
