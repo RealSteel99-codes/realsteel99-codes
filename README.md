@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria." — *II Kings 9:14*
+Bible verse of today: "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD has blessed." — *Isaiah 61:9*
 
 
