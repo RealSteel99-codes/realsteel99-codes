@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD has blessed." — *Isaiah 61:9*
+Bible verse of today: "He has set me in dark places, as they that be dead of old." — *Lamentations 3:6*
 
 
