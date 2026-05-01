@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "He has set me in dark places, as they that be dead of old." — *Lamentations 3:6*
+Bible verse of today: "When they heard that, they were cut to the heart, and took counsel to slay them." — *Acts 5:33*
 
 
