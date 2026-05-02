@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "When they heard that, they were cut to the heart, and took counsel to slay them." — *Acts 5:33*
+Bible verse of today: "And he let it fall in the middle of their camp, round about their habitations." — *Psalms 78:28*
 
 
