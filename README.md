@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And he let it fall in the middle of their camp, round about their habitations." — *Psalms 78:28*
+Bible verse of today: "But I say to you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you." — *Matthew 11:22*
 
 
