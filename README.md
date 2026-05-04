@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "But I say to you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you." — *Matthew 11:22*
+Bible verse of today: "And surely the mountains falling comes to nothing, and the rock is removed out of his place." — *Job 14:18*
 
 
