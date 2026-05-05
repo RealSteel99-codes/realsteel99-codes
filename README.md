@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And surely the mountains falling comes to nothing, and the rock is removed out of his place." — *Job 14:18*
+Bible verse of today: "Commit your way to the LORD; trust also in him; and he shall bring it to pass." — *Psalms 37:5*
 
 
