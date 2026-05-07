@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And the LORD said to him, I have heard your prayer and your supplication, that you have made before me: I have hallowed this house, which you have built, to put my name there for ever; and my eyes and my heart shall be there perpetually." — *I Kings 9:3*
+Bible verse of today: "Receive, I pray you, the law from his mouth, and lay up his words in your heart." — *Job 22:22*
 
 
