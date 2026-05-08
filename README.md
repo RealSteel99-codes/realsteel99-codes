@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Receive, I pray you, the law from his mouth, and lay up his words in your heart." — *Job 22:22*
+Bible verse of today: "But to every one of us is given grace according to the measure of the gift of Christ." — *Ephesians 4:7*
 
 
