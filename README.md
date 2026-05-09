@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "But to every one of us is given grace according to the measure of the gift of Christ." — *Ephesians 4:7*
+Bible verse of today: "And now what have you to do in the way of Egypt, to drink the waters of Sihor? or what have you to do in the way of Assyria, to drink the waters of the river?" — *Jeremiah 2:18*
 
 
