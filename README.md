@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And now what have you to do in the way of Egypt, to drink the waters of Sihor? or what have you to do in the way of Assyria, to drink the waters of the river?" — *Jeremiah 2:18*
+Bible verse of today: "TEKEL; You are weighed in the balances, and are found wanting." — *Daniel 5:27*
 
 
