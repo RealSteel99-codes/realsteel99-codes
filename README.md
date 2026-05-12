@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Because David did that which was right in the eyes of the LORD, and turned not aside from any thing that he commanded him all the days of his life, save only in the matter of Uriah the Hittite." — *I Kings 15:5*
+Bible verse of today: "And Michal took an image, and laid it in the bed, and put a pillow of goats’ hair for his bolster, and covered it with a cloth." — *I Samuel 19:13*
 
 
