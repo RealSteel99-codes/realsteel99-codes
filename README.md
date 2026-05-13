@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "And Michal took an image, and laid it in the bed, and put a pillow of goats’ hair for his bolster, and covered it with a cloth." — *I Samuel 19:13*
+Bible verse of today: "A good man obtains favor of the LORD: but a man of wicked devices will he condemn." — *Proverbs 12:2*
 
 
