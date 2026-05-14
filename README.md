@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "A good man obtains favor of the LORD: but a man of wicked devices will he condemn." — *Proverbs 12:2*
+Bible verse of today: "Rejoice you with Jerusalem, and be glad with her, all you that love her: rejoice for joy with her, all you that mourn for her:" — *Isaiah 66:10*
 
 
