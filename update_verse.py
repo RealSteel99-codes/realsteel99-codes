@@ -21,9 +21,17 @@ for book in bible_data["books"]:
                 "text": verse_text
             })
 
-# Fixed non randomness
-# The date logic is replaced with random.choice
-verse_of_the_day = random.choice(verses_list)
+#Fixing random verse fragments
+good_verses = [
+    v for v in verses_list 
+    if v["text"] and v["text"][0].isupper() and v["text"].endswith('.')
+]
+
+# Fallback to the full list in case the filter comes up empty
+if good_verses:
+    verse_of_the_day = random.choice(good_verses)
+else:
+    verse_of_the_day = random.choice(verses_list)
 
 
 verse_text = verse_of_the_day["text"]
