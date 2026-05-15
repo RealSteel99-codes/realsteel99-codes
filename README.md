@@ -18,6 +18,6 @@ arch linux btw
 
 
 
-Bible verse of today: "Rejoice you with Jerusalem, and be glad with her, all you that love her: rejoice for joy with her, all you that mourn for her:" — *Isaiah 66:10*
+Bible verse of today: "That men may know that you, whose name alone is JEHOVAH, are the most high over all the earth." — *Psalms 83:18*
 
 
