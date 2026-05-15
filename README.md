@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "That men may know that you, whose name alone is JEHOVAH, are the most high over all the earth." — *Psalms 83:18*
+Bible verse of today: "He said to him, What is written in the law? how read you?" — *Luke 10:26*
 
 
