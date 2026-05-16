@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "As for you, O king, your thoughts came into your mind on your bed, what should come to pass hereafter: and he that reveals secrets makes known to you what shall come to pass." — *Daniel 2:29*
+Bible verse of today: "In that hour Jesus rejoiced in spirit, and said, I thank you, O Father, Lord of heaven and earth, that you have hid these things from the wise and prudent, and have revealed them to babes: even so, Father; for so it seemed good in your sight." — *Luke 10:21*
 
 
