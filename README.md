@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "I was daily with you in the temple teaching, and you took me not: but the scriptures must be fulfilled." — *Mark 14:49*
+Bible verse of today: "That men may know that you, whose name alone is JEHOVAH, are the most high over all the earth." — *Psalms 83:18*
 
 
