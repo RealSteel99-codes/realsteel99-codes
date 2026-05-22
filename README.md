@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And the second took her, and died, neither left he any seed: and the third likewise." — *Mark 12:21*
+Bible verse of today: "Or ever I was aware, my soul made me like the chariots of Amminadib." — *Song of Solomon 6:12*
 
 
