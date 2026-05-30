@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And he spoke three thousand proverbs: and his songs were a thousand and five." — *I Kings 4:32*
+Bible verse of today: "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither labored in vain." — *Philippians 2:16*
 
 
