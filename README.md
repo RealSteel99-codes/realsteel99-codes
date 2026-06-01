@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Then Daniel, whose name was Belteshazzar, was astonished for one hour, and his thoughts troubled him. The king spoke, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble you. Belteshazzar answered and said, My lord, the dream be to them that hate you, and the interpretation thereof to your enemies." — *Daniel 4:19*
+Bible verse of today: "And command you them, saying, Take you hence out of the middle of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and you shall carry them over with you, and leave them in the lodging place, where you shall lodge this night." — *Joshua 4:3*
 
 
