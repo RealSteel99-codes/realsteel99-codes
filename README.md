@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "A golden bell and a pomegranate, a golden bell and a pomegranate, on the hem of the robe round about." — *Exodus 28:34*
+Bible verse of today: "And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore." — *I Kings 4:29*
 
 
