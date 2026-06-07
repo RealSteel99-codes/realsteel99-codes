@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "You have multiplied the nation, and not increased the joy: they joy before you according to the joy in harvest, and as men rejoice when they divide the spoil." — *Isaiah 9:3*
+Bible verse of today: "You have broken Rahab in pieces, as one that is slain; you have scattered your enemies with your strong arm." — *Psalms 89:10*
 
 
