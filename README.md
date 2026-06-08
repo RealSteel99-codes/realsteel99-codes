@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "You have broken Rahab in pieces, as one that is slain; you have scattered your enemies with your strong arm." — *Psalms 89:10*
+Bible verse of today: "Therefore the LORD was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only." — *II Kings 17:18*
 
 
