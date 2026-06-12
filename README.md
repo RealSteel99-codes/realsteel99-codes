@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And I was very angry when I heard their cry and these words." — *Nehemiah 5:6*
+Bible verse of today: "And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd." — *Ezekiel 34:23*
 
 
