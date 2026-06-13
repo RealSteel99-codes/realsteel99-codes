@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd." — *Ezekiel 34:23*
+Bible verse of today: "And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender." — *Genesis 43:24*
 
 
