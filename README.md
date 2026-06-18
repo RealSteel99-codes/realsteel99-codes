@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Which say, Stand by yourself, come not near to me; for I am holier than you. These are a smoke in my nose, a fire that burns all the day." — *Isaiah 65:5*
+Bible verse of today: "And I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you." — *Ezekiel 22:15*
 
 
