@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "You give your mouth to evil, and your tongue frames deceit." — *Psalms 50:19*
+Bible verse of today: "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the middle of them for ever more." — *Ezekiel 37:26*
 
 
