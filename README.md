@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the middle of them for ever more." — *Ezekiel 37:26*
+Bible verse of today: "And I will set my face against you, and you shall be slain before your enemies: they that hate you shall reign over you; and you shall flee when none pursues you." — *Leviticus 26:17*
 
 
