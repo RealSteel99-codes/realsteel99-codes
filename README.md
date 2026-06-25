@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Call to me, and I will answer you, and show you great and mighty things, which you know not." — *Jeremiah 33:3*
+Bible verse of today: "And the people shall be oppressed, every one by another, and every one by his neighbor: the child shall behave himself proudly against the ancient, and the base against the honorable." — *Isaiah 3:5*
 
 
