@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And the people shall be oppressed, every one by another, and every one by his neighbor: the child shall behave himself proudly against the ancient, and the base against the honorable." — *Isaiah 3:5*
+Bible verse of today: "Saul and Jonathan were lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions." — *II Samuel 1:23*
 
 
