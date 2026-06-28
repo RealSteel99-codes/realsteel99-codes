@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead." — *II Chronicles 21:1*
+Bible verse of today: "Thus says the LORD of hosts, They shall thoroughly glean the remnant of Israel as a vine: turn back your hand as a grape gatherer into the baskets." — *Jeremiah 6:9*
 
 
