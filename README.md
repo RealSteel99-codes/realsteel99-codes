@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Thus says the LORD of hosts, They shall thoroughly glean the remnant of Israel as a vine: turn back your hand as a grape gatherer into the baskets." — *Jeremiah 6:9*
+Bible verse of today: "He that loves pleasure shall be a poor man: he that loves wine and oil shall not be rich." — *Proverbs 21:17*
 
 
