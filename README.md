@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "He that walks with wise men shall be wise: but a companion of fools shall be destroyed." — *Proverbs 13:20*
+Bible verse of today: "And saying, We have piped to you, and you have not danced; we have mourned to you, and you have not lamented." — *Matthew 11:17*
 
 
