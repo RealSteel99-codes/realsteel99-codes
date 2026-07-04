@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "For the LORD takes pleasure in his people: he will beautify the meek with salvation." — *Psalms 149:4*
+Bible verse of today: "My eyes prevent the night watches, that I might meditate in your word." — *Psalms 119:148*
 
 
