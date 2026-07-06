@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And when they were gone over, they came into the land of Gennesaret." — *Matthew 14:34*
+Bible verse of today: "For as a snare shall it come on all them that dwell on the face of the whole earth." — *Luke 21:35*
 
 
