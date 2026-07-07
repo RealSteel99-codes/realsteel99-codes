@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "For as a snare shall it come on all them that dwell on the face of the whole earth." — *Luke 21:35*
+Bible verse of today: "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleeps, and must be awaked." — *I Kings 18:27*
 
 
