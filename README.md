@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleeps, and must be awaked." — *I Kings 18:27*
+Bible verse of today: "Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD." — *Leviticus 14:31*
 
 
