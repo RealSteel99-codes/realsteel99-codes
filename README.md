@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD." — *Leviticus 14:31*
+Bible verse of today: "Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come on us: now therefore come, that we may go and tell the king’s household." — *II Kings 7:9*
 
 
