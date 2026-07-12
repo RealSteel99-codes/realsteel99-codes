@@ -1,5 +1,5 @@
 arch linux btw
 
-Bible verse of today: "And the Sabeans fell on them, and took them away; yes, they have slain the servants with the edge of the sword; and I only am escaped alone to tell you." — *Job 1:15*
+Bible verse of today: "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon." — *Daniel 11:41*
 
 
