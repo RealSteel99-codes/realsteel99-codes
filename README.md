@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul." — *I Samuel 15:34*
+Bible verse of today: "For the LORD your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the LORD your God has been with you; you have lacked nothing." — *Deuteronomy 2:7*
 
 <!-- this is broken, will fix 
 div align="center"> 
