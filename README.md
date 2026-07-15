@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "For the LORD your God has blessed you in all the works of your hand: he knows your walking through this great wilderness: these forty years the LORD your God has been with you; you have lacked nothing." — *Deuteronomy 2:7*
+Bible verse of today: "And the king of Assyria sent Rabshakeh from Lachish to Jerusalem to king Hezekiah with a great army. And he stood by the conduit of the upper pool in the highway of the fuller’s field." — *Isaiah 36:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
