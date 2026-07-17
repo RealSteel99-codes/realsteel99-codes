@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God." — *Matthew 27:54*
+Bible verse of today: "And the children of Dan sent of their family five men from their coasts, men of valor, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said to them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there." — *Judges 18:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
