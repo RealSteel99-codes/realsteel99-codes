@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "And the angel of the LORD called to him out of heaven, and said, Abraham, Abraham: and he said, Here am I." — *Genesis 22:11*
+Bible verse of today: "And he made the robe of the ephod of woven work, all of blue." — *Exodus 39:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
