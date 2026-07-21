@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "And I commanded Joshua at that time, saying, Your eyes have seen all that the LORD your God has done to these two kings: so shall the LORD do to all the kingdoms where you pass." — *Deuteronomy 3:21*
+Bible verse of today: "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil." — *Psalms 40:14*
 
 <!-- this is broken, will fix 
 div align="center"> 
