@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three." — *Nehemiah 7:39*
+Bible verse of today: "I remember the days of old; I meditate on all your works; I muse on the work of your hands." — *Psalms 143:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
