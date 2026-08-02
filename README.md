@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "You love evil more than good; and lying rather than to speak righteousness. Selah." — *Psalms 52:3*
+Bible verse of today: "At that time the LORD said to Joshua, Make you sharp knives, and circumcise again the children of Israel the second time." — *Joshua 5:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
