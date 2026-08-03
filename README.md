@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "At that time the LORD said to Joshua, Make you sharp knives, and circumcise again the children of Israel the second time." — *Joshua 5:2*
+Bible verse of today: "Then the LORD said to me, Proclaim all these words in the cities of Judah, and in the streets of Jerusalem, saying, Hear you the words of this covenant, and do them." — *Jeremiah 11:6*
 
 <!-- this is broken, will fix 
 div align="center"> 
