@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "But let man and beast be covered with sackcloth, and cry mightily to God: yes, let them turn every one from his evil way, and from the violence that is in their hands." — *Jonah 3:8*
+Bible verse of today: "And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonished." — *Ezra 9:3*
 
 <!-- this is broken, will fix 
 div align="center"> 
