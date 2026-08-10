@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Take counsel, execute judgment; make your shadow as the night in the middle of the noonday; hide the outcasts; denude not him that wanders." — *Isaiah 16:3*
+Bible verse of today: "You also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ." — *I Peter 2:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
