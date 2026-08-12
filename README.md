@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "But you have cast off, and put us to shame; and go not forth with our armies." — *Psalms 44:9*
+Bible verse of today: "Him that dies of Jeroboam in the city shall the dogs eat; and him that dies in the field shall the fowls of the air eat: for the LORD has spoken it." — *I Kings 14:11*
 
 <!-- this is broken, will fix 
 div align="center"> 
