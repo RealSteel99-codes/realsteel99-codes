@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "She sent out her boughs to the sea, and her branches to the river." — *Psalms 80:11*
+Bible verse of today: "Behold, I come quickly: hold that fast which you have, that no man take your crown." — *Revelation of John 3:11*
 
 <!-- this is broken, will fix 
 div align="center"> 
