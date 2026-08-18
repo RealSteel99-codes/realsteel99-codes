@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Honor your father and your mother: and, You shall love your neighbor as yourself." — *Matthew 19:19*
+Bible verse of today: "I have preached righteousness in the great congregation: see, I have not refrained my lips, O LORD, you know." — *Psalms 40:9*
 
 <!-- this is broken, will fix 
 div align="center"> 
