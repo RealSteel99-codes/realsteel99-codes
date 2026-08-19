@@ -41,7 +41,7 @@ new_verse_md = f'Bible verse of today: "{verse_text}" — *{verse_ref}*'
 readme_file = "README.md"
 
 if not os.path.isfile(readme_file):
-    raise FileNotFoundError(f"{readme_file} not found! Make sure it exists in the repo root.")
+    raise FileNotFoundError(f"{readme_file} not found!  You forgot to put it in the repo root")
 
 with open(readme_file, "r", encoding="utf-8") as f:
     lines = f.readlines()
@@ -55,4 +55,4 @@ for i, line in enumerate(lines):
 with open(readme_file, "w", encoding="utf-8") as f:
     f.writelines(lines)
 
-print("README updated with today's verse!")
+print("README updated with today's verse.")
