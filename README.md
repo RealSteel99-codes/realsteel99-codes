@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "They helped every one his neighbor; and every one said to his brother, Be of good courage." — *Isaiah 41:6*
+Bible verse of today: "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist." — *Luke 21:15*
 
 <!-- this is broken, will fix 
 div align="center"> 
