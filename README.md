@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist." — *Luke 21:15*
+Bible verse of today: "And from the bottom on the ground even to the lower settle shall be two cubits, and the breadth one cubit; and from the lesser settle even to the greater settle shall be four cubits, and the breadth one cubit." — *Ezekiel 43:14*
 
 <!-- this is broken, will fix 
 div align="center"> 
