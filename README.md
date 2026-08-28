@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Consume them in wrath, consume them, that they may not be: and let them know that God rules in Jacob to the ends of the earth. Selah." — *Psalms 59:13*
+Bible verse of today: "It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine." — *Ezekiel 17:8*
 
 <!-- this is broken, will fix 
 div align="center"> 
