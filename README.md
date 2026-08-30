@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Now Peter sat without in the palace: and a damsel came to him, saying, You also were with Jesus of Galilee." — *Matthew 26:69*
+Bible verse of today: "Though the LORD be high, yet has he respect to the lowly: but the proud he knows afar off." — *Psalms 138:6*
 
 <!-- this is broken, will fix 
 div align="center"> 
