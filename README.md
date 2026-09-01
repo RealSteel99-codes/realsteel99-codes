@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "It came also in the days of Jehoiakim the son of Josiah king of Judah, to the end of the eleventh year of Zedekiah the son of Josiah king of Judah, to the carrying away of Jerusalem captive in the fifth month." — *Jeremiah 1:3*
+Bible verse of today: "And the apostles gathered themselves together to Jesus, and told him all things, both what they had done, and what they had taught." — *Mark 6:30*
 
 <!-- this is broken, will fix 
 div align="center"> 
