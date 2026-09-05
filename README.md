@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "I will set his hand also in the sea, and his right hand in the rivers." — *Psalms 89:25*
+Bible verse of today: "When I shall say to the righteous, that he shall surely live; if he trust to his own righteousness, and commit iniquity, all his righteousnesses shall not be remembered; but for his iniquity that he has committed, he shall die for it." — *Ezekiel 33:13*
 
 <!-- this is broken, will fix 
 div align="center"> 
