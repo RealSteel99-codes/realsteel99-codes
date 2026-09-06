@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "When I shall say to the righteous, that he shall surely live; if he trust to his own righteousness, and commit iniquity, all his righteousnesses shall not be remembered; but for his iniquity that he has committed, he shall die for it." — *Ezekiel 33:13*
+Bible verse of today: "And if a man shall lie with a woman having her sickness, and shall uncover her nakedness; he has discovered her fountain, and she has uncovered the fountain of her blood: and both of them shall be cut off from among their people." — *Leviticus 20:18*
 
 <!-- this is broken, will fix 
 div align="center"> 
