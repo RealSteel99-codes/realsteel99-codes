@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "In the first day you shall have an holy convocation: you shall do no servile work therein." — *Leviticus 23:7*
+Bible verse of today: "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he has escaped the sea, yet vengeance suffers not to live." — *Acts 28:4*
 
 <!-- this is broken, will fix 
 div align="center"> 
