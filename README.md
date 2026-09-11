@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Violence shall no more be heard in your land, wasting nor destruction within your borders; but you shall call your walls Salvation, and your gates Praise." — *Isaiah 60:18*
+Bible verse of today: "He said to them, Give place: for the maid is not dead, but sleeps. And they laughed him to scorn." — *Matthew 9:24*
 
 <!-- this is broken, will fix 
 div align="center"> 
