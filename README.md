@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers." — *Isaiah 1:21*
+Bible verse of today: "O our God, will you not judge them? for we have no might against this great company that comes against us; neither know we what to do: but our eyes are on you." — *II Chronicles 20:12*
 
 <!-- this is broken, will fix 
 div align="center"> 
