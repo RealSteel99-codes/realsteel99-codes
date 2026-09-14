@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "O our God, will you not judge them? for we have no might against this great company that comes against us; neither know we what to do: but our eyes are on you." — *II Chronicles 20:12*
+Bible verse of today: "And if the priest shall come in, and look on it, and, behold, the plague has not spread in the house, after the house was plastered: then the priest shall pronounce the house clean, because the plague is healed." — *Leviticus 14:48*
 
 <!-- this is broken, will fix 
 div align="center"> 
