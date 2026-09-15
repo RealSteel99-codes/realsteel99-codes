@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "And if the priest shall come in, and look on it, and, behold, the plague has not spread in the house, after the house was plastered: then the priest shall pronounce the house clean, because the plague is healed." — *Leviticus 14:48*
+Bible verse of today: "So also made he for the door of the temple posts of olive tree, a fourth part of the wall." — *I Kings 6:33*
 
 <!-- this is broken, will fix 
 div align="center"> 
