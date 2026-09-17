@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "For in that he died, he died to sin once: but in that he lives, he lives to God." — *Romans 6:10*
+Bible verse of today: "Therefore to him that knows to do good, and does it not, to him it is sin." — *James 4:17*
 
 <!-- this is broken, will fix 
 div align="center"> 
