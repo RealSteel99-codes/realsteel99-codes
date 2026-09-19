@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hzl24xzi2v24h6237ipaaqtiwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
-Bible verse of today: "Reward her even as she rewarded you, and double to her double according to her works: in the cup which she has filled fill to her double." — *Revelation of John 18:6*
+Bible verse of today: "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you." — *John 16:7*
 
 <!-- this is broken, will fix 
 div align="center"> 
