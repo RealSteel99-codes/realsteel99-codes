@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come to you; but if I depart, I will send him to you." — *John 16:7*
+Bible verse of today: "In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, says the LORD your Redeemer." — *Isaiah 54:8*
 
 <!-- this is broken, will fix 
 div align="center"> 
