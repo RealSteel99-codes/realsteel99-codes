@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "In a little wrath I hid my face from you for a moment; but with everlasting kindness will I have mercy on you, says the LORD your Redeemer." — *Isaiah 54:8*
+Bible verse of today: "David therefore departed there, and escaped to the cave Adullam: and when his brothers and all his father’s house heard it, they went down thither to him." — *I Samuel 22:1*
 
 <!-- this is broken, will fix 
 div align="center"> 
