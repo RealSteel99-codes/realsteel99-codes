@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "David therefore departed there, and escaped to the cave Adullam: and when his brothers and all his father’s house heard it, they went down thither to him." — *I Samuel 22:1*
+Bible verse of today: "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it." — *I Samuel 26:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
