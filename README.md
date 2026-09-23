@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it." — *I Samuel 26:22*
+Bible verse of today: "And you shall take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstborn among the cattle of the children of Israel." — *Numbers 3:41*
 
 <!-- this is broken, will fix 
 div align="center"> 
