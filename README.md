@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And you shall take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstborn among the cattle of the children of Israel." — *Numbers 3:41*
+Bible verse of today: "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred." — *Numbers 3:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
