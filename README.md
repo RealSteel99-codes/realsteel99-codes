@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred." — *Numbers 3:22*
+Bible verse of today: "And he said, Speak, I pray you, to Solomon the king, (for he will not say you no,) that he give me Abishag the Shunammite to wife." — *I Kings 2:17*
 
 <!-- this is broken, will fix 
 div align="center"> 
