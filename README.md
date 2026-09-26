@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And he said, Speak, I pray you, to Solomon the king, (for he will not say you no,) that he give me Abishag the Shunammite to wife." — *I Kings 2:17*
+Bible verse of today: "And when Hadad was dead, Samlah of Masrekah reigned in his stead." — *I Chronicles 1:47*
 
 <!-- this is broken, will fix 
 div align="center"> 
