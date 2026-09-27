@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And when Hadad was dead, Samlah of Masrekah reigned in his stead." — *I Chronicles 1:47*
+Bible verse of today: "You shall also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof." — *Exodus 25:23*
 
 <!-- this is broken, will fix 
 div align="center"> 
