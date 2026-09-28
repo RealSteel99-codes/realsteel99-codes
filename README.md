@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "You shall also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof." — *Exodus 25:23*
+Bible verse of today: "And Hadad found great favor in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen." — *I Kings 11:19*
 
 <!-- this is broken, will fix 
 div align="center"> 
