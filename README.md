@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And Hadad found great favor in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen." — *I Kings 11:19*
+Bible verse of today: "And you are puffed up, and have not rather mourned, that he that has done this deed might be taken away from among you." — *I Corinthians 5:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
