@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And you are puffed up, and have not rather mourned, that he that has done this deed might be taken away from among you." — *I Corinthians 5:2*
+Bible verse of today: "And the woman made haste, and ran, and showed her husband, and said to him, Behold, the man has appeared to me, that came to me the other day." — *Judges 13:10*
 
 <!-- this is broken, will fix 
 div align="center"> 
