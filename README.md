@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And the woman made haste, and ran, and showed her husband, and said to him, Behold, the man has appeared to me, that came to me the other day." — *Judges 13:10*
+Bible verse of today: "And Joseph saw Ephraim’s children of the third generation: the children also of Machir the son of Manasseh were brought up on Joseph’s knees." — *Genesis 50:23*
 
 <!-- this is broken, will fix 
 div align="center"> 
