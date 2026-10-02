@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And Joseph saw Ephraim’s children of the third generation: the children also of Machir the son of Manasseh were brought up on Joseph’s knees." — *Genesis 50:23*
+Bible verse of today: "But I will punish you according to the fruit of your doings, says the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it." — *Jeremiah 21:14*
 
 <!-- this is broken, will fix 
 div align="center"> 
