@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "But I will punish you according to the fruit of your doings, says the LORD: and I will kindle a fire in the forest thereof, and it shall devour all things round about it." — *Jeremiah 21:14*
+Bible verse of today: "And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whoever touches her shall be unclean until the even." — *Leviticus 15:19*
 
 <!-- this is broken, will fix 
 div align="center"> 
