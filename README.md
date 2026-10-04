@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whoever touches her shall be unclean until the even." — *Leviticus 15:19*
+Bible verse of today: "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith." — *Acts 6:7*
 
 <!-- this is broken, will fix 
 div align="center"> 
