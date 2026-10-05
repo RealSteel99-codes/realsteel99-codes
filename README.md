@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith." — *Acts 6:7*
+Bible verse of today: "As the dew of Hermon, and as the dew that descended on the mountains of Zion: for there the LORD commanded the blessing, even life for ever more." — *Psalms 133:3*
 
 <!-- this is broken, will fix 
 div align="center"> 
