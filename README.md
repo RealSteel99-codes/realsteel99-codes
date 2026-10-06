@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "As the dew of Hermon, and as the dew that descended on the mountains of Zion: for there the LORD commanded the blessing, even life for ever more." — *Psalms 133:3*
+Bible verse of today: "Rejoice the soul of your servant: for to you, O Lord, do I lift up my soul." — *Psalms 86:4*
 
 <!-- this is broken, will fix 
 div align="center"> 
