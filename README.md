@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Rejoice the soul of your servant: for to you, O Lord, do I lift up my soul." — *Psalms 86:4*
+Bible verse of today: "And it came to pass, when they had brought them forth abroad, that he said, Escape for your life; look not behind you, neither stay you in all the plain; escape to the mountain, lest you be consumed." — *Genesis 19:17*
 
 <!-- this is broken, will fix 
 div align="center"> 
