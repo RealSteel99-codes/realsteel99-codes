@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And it came to pass, when they had brought them forth abroad, that he said, Escape for your life; look not behind you, neither stay you in all the plain; escape to the mountain, lest you be consumed." — *Genesis 19:17*
+Bible verse of today: "For the LORD has chosen Zion; he has desired it for his habitation." — *Psalms 132:13*
 
 <!-- this is broken, will fix 
 div align="center"> 
