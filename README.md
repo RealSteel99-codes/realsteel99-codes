@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "For the LORD has chosen Zion; he has desired it for his habitation." — *Psalms 132:13*
+Bible verse of today: "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers." — *John 10:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
