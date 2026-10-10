@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers." — *John 10:5*
+Bible verse of today: "And the three companies blew the trumpets, and broke the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow with: and they cried, The sword of the LORD, and of Gideon." — *Judges 7:20*
 
 <!-- this is broken, will fix 
 div align="center"> 
