@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "You visit the earth, and water it: you greatly enrich it with the river of God, which is full of water: you prepare them corn, when you have so provided for it." — *Psalms 65:9*
+Bible verse of today: "You love evil more than good; and lying rather than to speak righteousness. Selah." — *Psalms 52:3*
 
 <!-- this is broken, will fix 
 div align="center"> 
