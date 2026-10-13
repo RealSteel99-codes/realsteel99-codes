@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "You love evil more than good; and lying rather than to speak righteousness. Selah." — *Psalms 52:3*
+Bible verse of today: "And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also." — *Zechariah 8:21*
 
 <!-- this is broken, will fix 
 div align="center"> 
