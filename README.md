@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also." — *Zechariah 8:21*
+Bible verse of today: "And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven." — *Acts 2:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
