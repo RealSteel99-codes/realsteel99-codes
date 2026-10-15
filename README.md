@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven." — *Acts 2:5*
+Bible verse of today: "For they that say such things declare plainly that they seek a country." — *Hebrews 11:14*
 
 <!-- this is broken, will fix 
 div align="center"> 
