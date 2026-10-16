@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "For they that say such things declare plainly that they seek a country." — *Hebrews 11:14*
+Bible verse of today: "And the LORD said to Moses and to Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh." — *Exodus 9:8*
 
 <!-- this is broken, will fix 
 div align="center"> 
