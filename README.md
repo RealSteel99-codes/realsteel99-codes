@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And the LORD said to Moses and to Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh." — *Exodus 9:8*
+Bible verse of today: "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing to your name." — *Romans 15:9*
 
 <!-- this is broken, will fix 
 div align="center"> 
