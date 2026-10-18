@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing to your name." — *Romans 15:9*
+Bible verse of today: "Fret not yourself because of evildoers, neither be you envious against the workers of iniquity." — *Psalms 37:1*
 
 <!-- this is broken, will fix 
 div align="center"> 
