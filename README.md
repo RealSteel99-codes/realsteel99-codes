@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "For I will lay the land most desolate, and the pomp of her strength shall cease; and the mountains of Israel shall be desolate, that none shall pass through." — *Ezekiel 33:28*
+Bible verse of today: "Truly God is good to Israel, even to such as are of a clean heart." — *Psalms 73:1*
 
 <!-- this is broken, will fix 
 div align="center"> 
