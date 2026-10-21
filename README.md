@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Truly God is good to Israel, even to such as are of a clean heart." — *Psalms 73:1*
+Bible verse of today: "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners." — *Hosea 7:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
