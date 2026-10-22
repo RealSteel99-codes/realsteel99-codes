@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners." — *Hosea 7:5*
+Bible verse of today: "Which also were accounted giants, as the Anakims; but the Moabites called them Emims." — *Deuteronomy 2:11*
 
 <!-- this is broken, will fix 
 div align="center"> 
