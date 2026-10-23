@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Which also were accounted giants, as the Anakims; but the Moabites called them Emims." — *Deuteronomy 2:11*
+Bible verse of today: "He that comes from above is above all: he that is of the earth is earthly, and speaks of the earth: he that comes from heaven is above all." — *John 3:31*
 
 <!-- this is broken, will fix 
 div align="center"> 
