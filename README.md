@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "He that comes from above is above all: he that is of the earth is earthly, and speaks of the earth: he that comes from heaven is above all." — *John 3:31*
+Bible verse of today: "And I will lay it waste: it shall not be pruned, nor dig; but there shall come up briers and thorns: I will also command the clouds that they rain no rain on it." — *Isaiah 5:6*
 
 <!-- this is broken, will fix 
 div align="center"> 
