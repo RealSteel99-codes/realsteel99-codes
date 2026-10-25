@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And I will lay it waste: it shall not be pruned, nor dig; but there shall come up briers and thorns: I will also command the clouds that they rain no rain on it." — *Isaiah 5:6*
+Bible verse of today: "And, behold, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the LORD your God spoke concerning you; all are come to pass to you, and not one thing has failed thereof." — *Joshua 23:14*
 
 <!-- this is broken, will fix 
 div align="center"> 
