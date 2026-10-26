@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And, behold, this day I am going the way of all the earth: and you know in all your hearts and in all your souls, that not one thing has failed of all the good things which the LORD your God spoke concerning you; all are come to pass to you, and not one thing has failed thereof." — *Joshua 23:14*
+Bible verse of today: "And they shall bring the glory and honor of the nations into it." — *Revelation of John 21:26*
 
 <!-- this is broken, will fix 
 div align="center"> 
