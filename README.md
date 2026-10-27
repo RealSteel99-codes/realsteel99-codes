@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And they shall bring the glory and honor of the nations into it." — *Revelation of John 21:26*
+Bible verse of today: "Blessed is that servant, whom his lord when he comes shall find so doing." — *Luke 12:43*
 
 <!-- this is broken, will fix 
 div align="center"> 
