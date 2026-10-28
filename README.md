@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Blessed is that servant, whom his lord when he comes shall find so doing." — *Luke 12:43*
+Bible verse of today: "Lift up yourself, you judge of the earth: render a reward to the proud." — *Psalms 94:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
