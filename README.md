@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Lift up yourself, you judge of the earth: render a reward to the proud." — *Psalms 94:2*
+Bible verse of today: "And the house of Joseph, they also went up against Bethel: and the LORD was with them." — *Judges 1:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
