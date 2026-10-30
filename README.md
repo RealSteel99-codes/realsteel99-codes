@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And the house of Joseph, they also went up against Bethel: and the LORD was with them." — *Judges 1:22*
+Bible verse of today: "I will abide in your tabernacle for ever: I will trust in the covert of your wings. Selah." — *Psalms 61:4*
 
 <!-- this is broken, will fix 
 div align="center"> 
