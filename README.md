@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "I will abide in your tabernacle for ever: I will trust in the covert of your wings. Selah." — *Psalms 61:4*
+Bible verse of today: "And God listened to the voice of Manoah; and the angel of God came again to the woman as she sat in the field: but Manoah her husband was not with her." — *Judges 13:9*
 
 <!-- this is broken, will fix 
 div align="center"> 
