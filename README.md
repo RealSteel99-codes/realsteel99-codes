@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And God listened to the voice of Manoah; and the angel of God came again to the woman as she sat in the field: but Manoah her husband was not with her." — *Judges 13:9*
+Bible verse of today: "There shall no evil befall you, neither shall any plague come near your dwelling." — *Psalms 91:10*
 
 <!-- this is broken, will fix 
 div align="center"> 
