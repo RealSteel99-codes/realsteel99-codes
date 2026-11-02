@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "There shall no evil befall you, neither shall any plague come near your dwelling." — *Psalms 91:10*
+Bible verse of today: "Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face." — *II Kings 14:8*
 
 <!-- this is broken, will fix 
 div align="center"> 
