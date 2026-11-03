@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face." — *II Kings 14:8*
+Bible verse of today: "It stood on twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above on them, and all their hinder parts were inward." — *I Kings 7:25*
 
 <!-- this is broken, will fix 
 div align="center"> 
