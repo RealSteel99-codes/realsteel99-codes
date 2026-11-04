@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "It stood on twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above on them, and all their hinder parts were inward." — *I Kings 7:25*
+Bible verse of today: "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not steadfast with God." — *Psalms 78:8*
 
 <!-- this is broken, will fix 
 div align="center"> 
