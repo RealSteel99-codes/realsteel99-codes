@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not steadfast with God." — *Psalms 78:8*
+Bible verse of today: "Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity." — *II Timothy 2:19*
 
 <!-- this is broken, will fix 
 div align="center"> 
