@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Nevertheless the foundation of God stands sure, having this seal, The Lord knows them that are his. And, Let every one that names the name of Christ depart from iniquity." — *II Timothy 2:19*
+Bible verse of today: "Every place that the sole of your foot shall tread on, that have I given to you, as I said to Moses." — *Joshua 1:3*
 
 <!-- this is broken, will fix 
 div align="center"> 
