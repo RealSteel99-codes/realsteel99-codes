@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Every place that the sole of your foot shall tread on, that have I given to you, as I said to Moses." — *Joshua 1:3*
+Bible verse of today: "Now therefore, O king, come down according to all the desire of your soul to come down; and our part shall be to deliver him into the king’s hand." — *I Samuel 23:20*
 
 <!-- this is broken, will fix 
 div align="center"> 
