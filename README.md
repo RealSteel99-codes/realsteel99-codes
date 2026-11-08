@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Now therefore, O king, come down according to all the desire of your soul to come down; and our part shall be to deliver him into the king’s hand." — *I Samuel 23:20*
+Bible verse of today: "Then king Solomon swore by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life." — *I Kings 2:23*
 
 <!-- this is broken, will fix 
 div align="center"> 
