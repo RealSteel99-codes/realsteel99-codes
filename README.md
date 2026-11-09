@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Then king Solomon swore by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life." — *I Kings 2:23*
+Bible verse of today: "Remember, O LORD, your tender mercies and your loving kindnesses; for they have been ever of old." — *Psalms 25:6*
 
 <!-- this is broken, will fix 
 div align="center"> 
