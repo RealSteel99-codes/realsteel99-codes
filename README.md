@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Remember, O LORD, your tender mercies and your loving kindnesses; for they have been ever of old." — *Psalms 25:6*
+Bible verse of today: "But every woman shall borrow of her neighbor, and of her that sojourns in her house, jewels of silver, and jewels of gold, and raiment: and you shall put them on your sons, and on your daughters; and you shall spoil the Egyptians." — *Exodus 3:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
