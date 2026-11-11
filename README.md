@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "But every woman shall borrow of her neighbor, and of her that sojourns in her house, jewels of silver, and jewels of gold, and raiment: and you shall put them on your sons, and on your daughters; and you shall spoil the Egyptians." — *Exodus 3:22*
+Bible verse of today: "In the mean while his disciples prayed him, saying, Master, eat." — *John 4:31*
 
 <!-- this is broken, will fix 
 div align="center"> 
