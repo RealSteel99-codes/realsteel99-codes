@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "In the mean while his disciples prayed him, saying, Master, eat." — *John 4:31*
+Bible verse of today: "It shall be a perpetual statute for your generations throughout all your dwellings, that you eat neither fat nor blood." — *Leviticus 3:17*
 
 <!-- this is broken, will fix 
 div align="center"> 
