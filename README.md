@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "It shall be a perpetual statute for your generations throughout all your dwellings, that you eat neither fat nor blood." — *Leviticus 3:17*
+Bible verse of today: "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, says the LORD." — *Jeremiah 7:11*
 
 <!-- this is broken, will fix 
 div align="center"> 
