@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen it, says the LORD." — *Jeremiah 7:11*
+Bible verse of today: "And Joshua returned, and all Israel with him, to the camp to Gilgal." — *Joshua 10:43*
 
 <!-- this is broken, will fix 
 div align="center"> 
