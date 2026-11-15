@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And Joshua returned, and all Israel with him, to the camp to Gilgal." — *Joshua 10:43*
+Bible verse of today: "For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made his arrows bright, he consulted with images, he looked in the liver." — *Ezekiel 21:21*
 
 <!-- this is broken, will fix 
 div align="center"> 
