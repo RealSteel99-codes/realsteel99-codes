@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "For to you is born this day in the city of David a Savior, which is Christ the Lord." — *Luke 2:11*
+Bible verse of today: "And Israel vowed a vow to the LORD, and said, If you will indeed deliver this people into my hand, then I will utterly destroy their cities." — *Numbers 21:2*
 
 <!-- this is broken, will fix 
 div align="center"> 
