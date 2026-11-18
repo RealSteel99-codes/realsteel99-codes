@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And Israel vowed a vow to the LORD, and said, If you will indeed deliver this people into my hand, then I will utterly destroy their cities." — *Numbers 21:2*
+Bible verse of today: "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon." — *Psalms 92:12*
 
 <!-- this is broken, will fix 
 div align="center"> 
