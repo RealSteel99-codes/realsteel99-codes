@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon." — *Psalms 92:12*
+Bible verse of today: "And, behold, there arose a great tempest in the sea, so that the ship was covered with the waves: but he was asleep." — *Matthew 8:24*
 
 <!-- this is broken, will fix 
 div align="center"> 
