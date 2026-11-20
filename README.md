@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And, behold, there arose a great tempest in the sea, so that the ship was covered with the waves: but he was asleep." — *Matthew 8:24*
+Bible verse of today: "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth." — *Jeremiah 50:41*
 
 <!-- this is broken, will fix 
 div align="center"> 
