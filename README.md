@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth." — *Jeremiah 50:41*
+Bible verse of today: "And they set the ark of God on a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drove the new cart." — *II Samuel 6:3*
 
 <!-- this is broken, will fix 
 div align="center"> 
