@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And they set the ark of God on a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drove the new cart." — *II Samuel 6:3*
+Bible verse of today: "And whatever soul it be that does any work in that same day, the same soul will I destroy from among his people." — *Leviticus 23:30*
 
 <!-- this is broken, will fix 
 div align="center"> 
