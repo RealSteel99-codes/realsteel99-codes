@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And whatever soul it be that does any work in that same day, the same soul will I destroy from among his people." — *Leviticus 23:30*
+Bible verse of today: "Make haste to help me, O Lord my salvation." — *Psalms 38:22*
 
 <!-- this is broken, will fix 
 div align="center"> 
