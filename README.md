@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "Make haste to help me, O Lord my salvation." — *Psalms 38:22*
+Bible verse of today: "But every woman that prays or prophesies with her head uncovered dishonors her head: for that is even all one as if she were shaven." — *I Corinthians 11:5*
 
 <!-- this is broken, will fix 
 div align="center"> 
