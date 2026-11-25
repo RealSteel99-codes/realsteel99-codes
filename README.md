@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "But every woman that prays or prophesies with her head uncovered dishonors her head: for that is even all one as if she were shaven." — *I Corinthians 11:5*
+Bible verse of today: "For he was a good man, and full of the Holy Ghost and of faith: and much people was added to the Lord." — *Acts 11:24*
 
 <!-- this is broken, will fix 
 div align="center"> 
