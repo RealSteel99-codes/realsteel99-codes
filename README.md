@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "For he was a good man, and full of the Holy Ghost and of faith: and much people was added to the Lord." — *Acts 11:24*
+Bible verse of today: "And said, I pray you, brothers, do not so wickedly." — *Genesis 19:7*
 
 <!-- this is broken, will fix 
 div align="center"> 
