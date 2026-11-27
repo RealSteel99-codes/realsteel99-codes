@@ -9,7 +9,7 @@
 
 
 
-Bible verse of today: "And said, I pray you, brothers, do not so wickedly." — *Genesis 19:7*
+Bible verse of today: "They rewarded me evil for good to the spoiling of my soul." — *Psalms 35:12*
 
 <!-- this is broken, will fix 
 div align="center"> 
